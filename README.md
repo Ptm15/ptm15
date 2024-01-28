@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Ptm15/ptm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hi, I;m Phoebe, a passionate and driven Data Analyst with a keen interest in the intersection of data and finance. I enjoy leveraging technologies and analytical tools to derive actionable insights from complex datasets.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python
+- **Databases:** SQL
+- **Cloud Platforms:** AWS, Azure
+- **Visualization Tools:** Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+Let's connect and explore opportunities to collaborate on exciting data projects!
